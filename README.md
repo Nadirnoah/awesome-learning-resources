@@ -33,4 +33,4 @@ A hand-picked list of high-quality resources for mastering new skills. This repo
 3. Check back often as I update this list monthly!
 
 ---
-*Maintained by [Your Name]*
+*Maintained by [Nadir Khan]*
